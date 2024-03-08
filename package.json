@@ -1,7 +1,7 @@
 {
 	"homepage": "https://ednanf.github.io/React-timer-game",
-	"name": "refs",
-	"private": true,
+	"name": "react-timer-game",
+	"private": false,
 	"version": "0.0.0",
 	"type": "module",
 	"scripts": {
