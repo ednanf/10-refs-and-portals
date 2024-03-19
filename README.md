@@ -1,7 +1,7 @@
 # React Timer Game
 
 ![GitHub deployments](https://img.shields.io/github/deployments/ednanf/React-timer-game/github-pages?label=deployment%20status)
-![GitLab License](https://img.shields.io/gitlab/license/React-timer-game)
+![GitHub License](https://img.shields.io/github/license/ednanf/React-timer-game)
 
 ## Live demo
 
